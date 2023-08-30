@@ -2,4 +2,4 @@
 
 Meu nome é Rebeca Borchert
 
-- Estou estudando 
+- Estou estudando na [Alura](
